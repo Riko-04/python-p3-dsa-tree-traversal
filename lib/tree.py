@@ -18,7 +18,8 @@ class Tree:
         
         return None
 
-  #   return self._get_element_by_id_recursive(self.root, id)
+  # def get_element_by_id(self, id):
+  #     return self._get_element_by_id_recursive(self.root, id)
     
   # def _get_element_by_id_recursive(self, node, id):
   #     # Base case: if the current node is None, return None
